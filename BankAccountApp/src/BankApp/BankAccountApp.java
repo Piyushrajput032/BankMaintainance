@@ -6,6 +6,10 @@ public class BankAccountApp {
 		// TODO Auto-generated method stub
 
 		System.out.print("enter customer name");
+		
+	}
+	public void check() {
+		
 	}
 
 }
