@@ -9,7 +9,7 @@ public class BankAccountApp {
 		
 	}
 	public void check() {
-		
+		System.out.println(";ENter the amount")
 	}
 	public void List() {
 		
